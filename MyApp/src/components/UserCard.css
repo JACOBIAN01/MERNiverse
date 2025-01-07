@@ -14,3 +14,11 @@ img{
     margin-right: 20px;
     margin-top: 20px;
 }
+
+button{
+    padding: 10px;
+    background-color:lightgreen;
+    color: black;
+    font-size: medium;
+
+}

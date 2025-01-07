@@ -3,7 +3,6 @@
 import image from "../assets/DP.jpg"
 import '../components/UserCard.css'
 
-
 const  UserCard=(props)=>{
     return (
       <div className="user-container">
